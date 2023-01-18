@@ -1,1 +1,1 @@
-# tietokannat-rajapinna_2023
+# tietokannat-rajapinnat_2023
